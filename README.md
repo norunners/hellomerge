@@ -1,0 +1,2 @@
+# hellomerge
+Merge strategy testing.
